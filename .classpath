@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="com.autovend.hardware_0.3.2/src"/>
+	<classpathentry excluding="com/autovend/payments/" kind="src" path="com.autovend.software.test/src"/>
+	<classpathentry kind="src" path="com.autovend.software.test/src/com/autovend/payments"/>
+	<classpathentry kind="src" path="com.autovend.software/src"/>
+	<classpathentry kind="output" path="com.autovend.software/bin"/>
+</classpath>
