@@ -1,0 +1,32 @@
+.DS_Store
+
+*.class
+/.classpath
+/.project
+/com/
+/.metadata/
+
+/bin/
+/.settings/
+/com.autovend.hardware_0.3.3/
+
+
+# IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+atlassian-ide-plugin.xml
+
+# Maven files
+target/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+
+com.autovend.software/bin/
+
+com.autovend.software.test/bin/
